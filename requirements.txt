@@ -31,3 +31,7 @@ Werkzeug==3.1.3
 flask
 flask-cors
 gunicorn
+authlib
+python-dotenv
+psycopg2-binary
+
