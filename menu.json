@@ -1,0 +1,159 @@
+[
+  {
+    "category": "Рамен",
+    "items": [
+      {
+        "name": "Классический рамен",
+        "price": 1800,
+        "desc": "Ароматный бульон, лапша, яйцо и зелень",
+        "img": "static/images/ramen.png"
+      },
+      {
+        "name": "Рамен с сыром",
+        "price": 2000,
+        "desc": "Добавь сыр и выбери уровень остроты",
+        "img": "static/images/ramen_cheese.png"
+      },
+      {
+        "name": "Острый рамен с говядиной",
+        "price": 2200,
+        "desc": "Пряный бульон и нежная говядина в фирменном соусе",
+        "img": "static/images/ramen_beef.png"
+      }
+    ]
+  },
+  {
+    "category": "Роллы",
+    "items": [
+      {
+        "name": "Филадельфия",
+        "price": 2400,
+        "desc": "Лосось, сливочный сыр, авокадо, рис, нори",
+        "img": "static/images/roll_phila.png"
+      },
+      {
+        "name": "Цезарь ролл",
+        "price": 2000,
+        "desc": "Курица, салат, пармезан, соус цезарь",
+        "img": "static/images/roll_caesar.png"
+      },
+      {
+        "name": "Калифорния",
+        "price": 2300,
+        "desc": "Крабовое мясо, огурец, авокадо, икра тобико",
+        "img": "static/images/roll_california.png"
+      },
+      {
+        "name": "Острый тунец",
+        "price": 2500,
+        "desc": "Тунец, острый соус, зелёный лук",
+        "img": "static/images/roll_tuna.png"
+      }
+    ]
+  },
+  {
+    "category": "Напитки",
+    "items": [
+      {
+        "name": "Кока-Кола",
+        "price": 500,
+        "desc": "Классическая Coca-Cola 0.33 л",
+        "img": "static/images/cola.png"
+      },
+      {
+        "name": "Кола Зеро",
+        "price": 500,
+        "desc": "Без сахара",
+        "img": "static/images/cola_zero.png"
+      },
+      {
+        "name": "Фанта",
+        "price": 500,
+        "desc": "Апельсиновая газировка 0.33 л",
+        "img": "static/images/fanta.png"
+      },
+      {
+        "name": "Молоко обычное",
+        "price": 400,
+        "desc": "Классическое молоко",
+        "img": "static/images/milk_plain.png"
+      },
+      {
+        "name": "Молоко клубничное",
+        "price": 450,
+        "desc": "Сладкое молоко с клубничным сиропом",
+        "img": "static/images/milk_strawberry.png"
+      },
+      {
+        "name": "Молоко банановое",
+        "price": 450,
+        "desc": "Молоко с банановым вкусом и лёгкой сладостью",
+        "img": "static/images/milk_banana.png"
+      },
+      {
+        "name": "Вода с газом",
+        "price": 300,
+        "desc": "Освежающая вода с пузырьками",
+        "img": "static/images/water_sparkling.png"
+      },
+      {
+        "name": "Вода без газа",
+        "price": 300,
+        "desc": "Чистая минеральная вода",
+        "img": "static/images/water_still.png"
+      }
+    ]
+  },
+  {
+    "category": "Бабл-ти",
+    "items": [
+      {
+        "name": "Бабл-ти с орео",
+        "price": 1500,
+        "desc": "Молочный чай с кусочками печенья орео",
+        "img": "static/images/bubble_oreo.png"
+      },
+      {
+        "name": "Матча бабл-ти",
+        "price": 1600,
+        "desc": "Матча с молоком и тапиокой",
+        "img": "static/images/bubble_matcha.png"
+      },
+      {
+        "name": "Клубничный бабл-ти",
+        "price": 1500,
+        "desc": "Клубничный сироп и тапиока",
+        "img": "static/images/bubble_strawberry.png"
+      }
+    ]
+  },
+  {
+    "category": "Десерты",
+    "items": [
+      {
+        "name": "Моти с клубникой",
+        "price": 800,
+        "desc": "Рисовое пирожное с клубничной начинкой",
+        "img": "static/images/mochi_strawberry.png"
+      },
+      {
+        "name": "Моти с орео",
+        "price": 850,
+        "desc": "Моти с кремом и печеньем орео",
+        "img": "static/images/mochi_oreo.png"
+      },
+      {
+        "name": "Моти с голубикой",
+        "price": 850,
+        "desc": "Моти с голубичной начинкой",
+        "img": "static/images/mochi_blueberry.png"
+      },
+      {
+        "name": "Японский чизкейк",
+        "price": 1200,
+        "desc": "Лёгкий воздушный десерт с нежным сливочным вкусом",
+        "img": "static/images/cheesecake.png"
+      }
+    ]
+  }
+]
