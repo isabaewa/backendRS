@@ -34,4 +34,5 @@ gunicorn
 authlib
 python-dotenv
 psycopg2-binary
+requests
 
